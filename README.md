@@ -21,7 +21,7 @@ Ensure you have Python installed on your system. This application has been teste
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/pdf-toolkit.git
+git clone https://github.com/alihayajneh/PDF_TOOLKIT.git
 cd pdf-toolkit
 ```
 
