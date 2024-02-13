@@ -61,10 +61,6 @@ pyinstaller --onefile --windowed --icon=ic.ico extended.py
 
 3. Find the generated executable in the `dist` directory within your project folder.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Developed by Dr. Ali Hayajneh.
