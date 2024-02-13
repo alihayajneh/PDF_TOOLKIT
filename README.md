@@ -11,8 +11,7 @@ PDF Toolkit is a simple, easy-to-use desktop application developed in Python wit
 - **Customizable Output**: Specify a prefix for the output files generated during the split operation.
 
 ## Getting Started
-You can try the tool using the already generated .exe file by visiting [Download](https://www.alihayajneh.com/media/11/WebsiteFiles/extended.exe)
-It is 100% safe exe file.
+You can try the tool using the already generated .exe file by visiting [Download](https://www.alihayajneh.com/media/11/WebsiteFiles/extended.exe). It is 100% safe exe file to download and run.
 
 
 
